@@ -69,7 +69,7 @@ Accuracy/loss plots
 
 Example predictions
 
-##🎓 Learning Goals
+## 🎓 Learning Goals
 Understand churn prediction
 
 Preprocess real-world datasets
